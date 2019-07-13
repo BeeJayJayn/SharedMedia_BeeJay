@@ -1,4 +1,7 @@
 ## Interface: 70300 
-## Title: SharedMedia_BeeJay 
-## Dependencies: SharedMedia 
+## Title: |cFFFFFF00<DTB Soundpack>|r |cff69ccf0by BeeJay|r 
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
 MyMedia.lua 
