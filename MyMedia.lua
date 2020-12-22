@@ -24,7 +24,10 @@ LSM:Register("sound", "|cFF44ee99DTB: Halleluja|r", [[Interface\Addons\SharedMed
 LSM:Register("sound", "|cFF44ee99DTB: B&G|r", [[Interface\Addons\SharedMedia_BeeJay\sound\bump-and-grind.ogg]]) 
 LSM:Register("sound", "|cFF44ee99DTB: Hey Listen|r", [[Interface\Addons\SharedMedia_BeeJay\sound\hey_listen.ogg]]) 
 LSM:Register("sound", "|cFF44ee99DTB: 2SAD4ME|r", [[Interface\Addons\SharedMedia_BeeJay\sound\2SAD4ME.ogg]]) 
-LSM:Register("sound", "|cFF44ee99DTB: Sex|r", [[Interface\Addons\SharedMedia_BeeJay\sound\i-just-had-sex.ogg]]) 
+LSM:Register("sound", "|cFF44ee99DTB: Sex|r", [[Interface\Addons\SharedMedia_BeeJay\sound\i-just-had-sex.ogg]])
+LSM:Register("sound", "|cFF44ee99DTB: Spartans|r", [[Interface\Addons\SharedMedia_BeeJay\sound\spartans.ogg]])
+LSM:Register("sound", "|cFF44ee99DTB: WubLubDubDub|r", [[Interface\Addons\SharedMedia_BeeJay\sound\wubba-lubba-dub-dub.ogg]])
+
 -- -----
 --   STATUSBAR
 -- -----
