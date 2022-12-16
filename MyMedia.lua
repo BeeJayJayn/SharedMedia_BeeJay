@@ -27,6 +27,14 @@ LSM:Register("sound", "|cFF44ee99DTB: 2SAD4ME|r", [[Interface\Addons\SharedMedia
 LSM:Register("sound", "|cFF44ee99DTB: Sex|r", [[Interface\Addons\SharedMedia_BeeJay\sound\i-just-had-sex.ogg]])
 LSM:Register("sound", "|cFF44ee99DTB: Spartans|r", [[Interface\Addons\SharedMedia_BeeJay\sound\spartans.ogg]])
 LSM:Register("sound", "|cFF44ee99DTB: WubLubDubDub|r", [[Interface\Addons\SharedMedia_BeeJay\sound\wubba-lubba-dub-dub.ogg]])
+LSM:Register("sound", "|cFF44ee99DTB: Ara Ara|r", [[Interface\Addons\SharedMedia_BeeJay\sound\ara-ara.ogg]])
+
+-- -----
+-- T29 - Vault of the Incarnates SOUNDS
+-- -----
+LSM:Register("sound", "|cFF44ee99DTB::T29: Bing Chilling|r", [[Interface\Addons\SharedMedia_BeeJay\sound\t29_bing-chilling.ogg]]) 
+LSM:Register("sound", "|cFF44ee99DTB::T29: Wallah Krise|r", [[Interface\Addons\SharedMedia_BeeJay\sound\t29_wallah-krise.ogg]]) 
+
 
 -- -----
 --   STATUSBAR
