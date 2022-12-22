@@ -34,7 +34,9 @@ LSM:Register("sound", "|cFF44ee99DTB: Ara Ara|r", [[Interface\Addons\SharedMedia
 -- -----
 LSM:Register("sound", "|cFF44ee99DTB::T29: Bing Chilling|r", [[Interface\Addons\SharedMedia_BeeJay\sound\t29_bing-chilling.ogg]]) 
 LSM:Register("sound", "|cFF44ee99DTB::T29: Wallah Krise|r", [[Interface\Addons\SharedMedia_BeeJay\sound\t29_wallah-krise.ogg]]) 
+LSM:Register("sound", "|cFF44ee99DTB::T29: Vine Run|r", [[Interface\Addons\SharedMedia_BeeJay\sound\t29_vine-run.ogg]]) 
 
+LSM:Register("sound", "|cFF44ee99DTB::T29: Pikachu Dubstep|r", [[Interface\Addons\SharedMedia_BeeJay\sound\t29_pikachu-dubstep.ogg]]) 
 
 -- -----
 --   STATUSBAR
